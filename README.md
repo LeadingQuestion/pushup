@@ -1,4 +1,4 @@
 pushup
 ======
 
-This could have been pushdowm, bur we're less reactionary than that.
+This could have been pushdowm, but we're less reactionary than that.
